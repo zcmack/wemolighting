@@ -1,0 +1,27 @@
+{
+  "name": "wemolighting",
+  "version": "1.0.0",
+  "description": "rest api for wemo lighting control on local network",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "wemo-client": "^0.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcmack/wemolighting.git"
+  },
+  "keywords": [
+    "wemo"
+  ],
+  "author": "Chris Mack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcmack/wemolighting/issues"
+  },
+  "homepage": "https://github.com/zcmack/wemolighting#readme"
+}
